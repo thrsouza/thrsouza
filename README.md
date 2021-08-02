@@ -2,8 +2,8 @@
 
 <div>   
   <a href="mailto:dev@thiagosouza.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/imthiagodesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" target="_blank"></a> 
-  <a href="https://www.instagram.com/thiagosouza.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagosouza-js" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" target="_blank"></a> 
+  <a href="https://www.instagram.com/thiagosouza.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" target="_blank"></a>
 </div>
 
