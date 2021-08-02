@@ -10,7 +10,6 @@
 ## 📜 Resume (JavaScript)
 
 ```javascript
-import { someOthersExperiences } from 'linkedin';
 
 const resume = {
   name: "Thiago Souza",
