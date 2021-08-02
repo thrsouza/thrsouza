@@ -1,4 +1,4 @@
-# Hello, friend! <img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="50">
+# Hello, friend! <img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="36">
 
 <div>   
   <a href="mailto:dev@thiagosouza.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" target="_blank"></a>
@@ -46,7 +46,7 @@ console.log(`Hello, friend... My name is ${name}! What about you?`);
 <div>
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=github_dark"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/9WpxmWAOMI9ohCfzCF/giphy.gif" width="180"></a>
+  <a href="#"><img src="https://media.giphy.com/media/9WpxmWAOMI9ohCfzCF/giphy.gif" width="90"></a>
 </div>
 
 
