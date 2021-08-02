@@ -1,4 +1,4 @@
-# Hello, friend! <img src="https://media.giphy.com/media/lv9hJHsMSLMYRnDgls/giphy.gif" width="36">
+<h1>Hello, friend!<img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></h1>
 
 <div>   
   <a href="mailto:dev@thiagosouza.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" target="_blank"></a>
