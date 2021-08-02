@@ -10,8 +10,9 @@
 ## 📜 Resume (JavaScript)
 
 ```javascript
+import { someOthersExperiences } from 'linkedin';
 
-const resume_data = {
+const resume = {
   name: "Thiago Souza",
   title: "Full Stack Developer",
   alias: ["ZeroDois", "Rezim", "Mizer"],
@@ -23,15 +24,17 @@ const resume_data = {
     start_date: "2018-01-01",
     end_date: "2020-31-12",
   },
-  work: {
-    position: "Full Stack Technical Leader",
+  current_job: {
+    title: "Full Stack Technical Leader",
     company: "Golsat Tecnologia",
+    employment_type: "Full-time",
     location: "Londrina, PR - Brazil",
     start_date: "2020-01-16",
+    end_date: null,
   },
 };
 
-const { name } = resume_data;
+const { name } = resume;
 
 console.log(`Hello, friend... My name is ${name}! What about you?`);
 // Expected result: Hello, friend... My name is Thiago Souza! What about you?
