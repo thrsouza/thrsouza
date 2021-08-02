@@ -1,6 +1,5 @@
-### Let's Rock! 🤟
+## Hello, friend! 🤟
 
-##
 
 <div>   
   <a href="mailto:dev@thiagosouza.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" target="_blank"></a>
@@ -11,13 +10,48 @@
 
 <br/>
 
+```javascript
+
+const data = {
+  name: "Thiago Souza",
+  title: "Full Stack Developer",
+  alias: ["ZeroDois", "Rezim", "Mizer"],
+  hobbies: ["Music", "Games", "Movies", "Series"],
+  opensource_projects: ["neutronjs", "cheesecakejs"],
+  graduation: {
+    school: "Campus Virtual Cruzeiro do Sul Educacional",
+    field_of_study: "Análise e Desenvolvimento de Sistemas",
+    start_date: "2018-01-01",
+    end_date: "2020-31-12",
+  },
+  work: {
+    position: "Full Stack Technical Leader",
+    company: "Golsat Tecnologia",
+    location: "Londrina, PR - Brazil",
+    start_date: "2020-01-16",
+  },
+};
+
+const { name } = data;
+
+console.log(`Hello, friend... My name is ${name}! What about you?`);
+// Expected result: Hello, friend... My name is Thiago Souza! What about you?
+
+```
+
+## 
+<br/>
+
 
 <div>
   <a href="https://github.com/thiagodesouza"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
   <a href="https://github.com/thiagodesouza"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=github_dark"/></a>
 </div>
 
+## 
+
 <br/>
+
 
 <div style="display: inline_block">
   <a href="https://github.com/thiagodesouza"><img align="center" alt="Thiago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"></a>
