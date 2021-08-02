@@ -7,6 +7,15 @@
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" target="_blank"></a>
 </div>
 
+## 🥇 Github Stats
+
+<div>
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
+  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=github_dark"/></a>
+</div>
+
+<br/>
+
 ## 📜 Resume (JavaScript)
 
 ```javascript
@@ -42,17 +51,6 @@ console.log(`Hello, friend... My name is ${name}! What about you?`);
 // Expected result: Hello, friend... My name is Thiago Souza! What about you?
 
 ```
-
-<br/>
-
-## 🥇 Github Stats
-
-
-<div>
-  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
-  <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=github_dark"/></a>
-</div>
-
 
 <br/>
 
