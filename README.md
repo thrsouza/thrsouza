@@ -16,16 +16,6 @@ const resume = {
   title: "Full Stack Developer",
   alias: ["ZeroDois", "Rezim", "Mizer"],
   hobbies: ["Music", "Games", "Movies", "Series"],
-  opensource: [
-    { name: "neutronjs", repo: "https://github.com/neutronjs/neutron" }, 
-    { name: "cheesecakejs", repo: "https://github.com/thiagodesouza/cheesecake" },
-  ],
-  graduation: {
-    school: "Campus Virtual Cruzeiro do Sul Educacional",
-    field_of_study: "Análise e Desenvolvimento de Sistemas",
-    start_date: "2018-01-01",
-    end_date: "2020-31-12",
-  },
   current_job: {
     title: "Full Stack Technical Leader",
     company: "Golsat Tecnologia",
@@ -34,6 +24,16 @@ const resume = {
     start_date: "2020-01-16",
     end_date: null,
   },
+  graduation: {
+    school: "Campus Virtual Cruzeiro do Sul Educacional",
+    field_of_study: "Análise e Desenvolvimento de Sistemas",
+    start_date: "2018-01-01",
+    end_date: "2020-31-12",
+  },
+  opensource: [
+    { name: "neutronjs", repo: "https://github.com/neutronjs/neutron" }, 
+    { name: "cheesecakejs", repo: "https://github.com/thiagodesouza/cheesecake" },
+  ],
 };
 
 const { name } = resume;
