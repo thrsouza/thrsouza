@@ -16,7 +16,10 @@ const resume = {
   title: "Full Stack Developer",
   alias: ["ZeroDois", "Rezim", "Mizer"],
   hobbies: ["Music", "Games", "Movies", "Series"],
-  opensource_projects: ["neutronjs", "cheesecakejs"],
+  opensource_projects: [
+    { name: "neutronjs", repo: "https://github.com/neutronjs/neutron" }, 
+    { name: "cheesecakejs", repo: "https://github.com/thiagodesouza/cheesecake" },
+  ],
   graduation: {
     school: "Campus Virtual Cruzeiro do Sul Educacional",
     field_of_study: "Análise e Desenvolvimento de Sistemas",
