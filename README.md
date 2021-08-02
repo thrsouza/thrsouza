@@ -16,7 +16,7 @@ const resume = {
   title: "Full Stack Developer",
   alias: ["ZeroDois", "Rezim", "Mizer"],
   hobbies: ["Music", "Games", "Movies", "Series"],
-  opensource_projects: [
+  opensource: [
     { name: "neutronjs", repo: "https://github.com/neutronjs/neutron" }, 
     { name: "cheesecakejs", repo: "https://github.com/thiagodesouza/cheesecake" },
   ],
