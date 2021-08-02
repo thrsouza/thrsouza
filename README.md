@@ -11,7 +11,7 @@
 
 ```javascript
 
-const data = {
+const resume_data = {
   name: "Thiago Souza",
   title: "Full Stack Developer",
   alias: ["ZeroDois", "Rezim", "Mizer"],
@@ -31,7 +31,7 @@ const data = {
   },
 };
 
-const { name } = data;
+const { name } = resume_data;
 
 console.log(`Hello, friend... My name is ${name}! What about you?`);
 // Expected result: Hello, friend... My name is Thiago Souza! What about you?
@@ -40,13 +40,13 @@ console.log(`Hello, friend... My name is ${name}! What about you?`);
 
 <br/>
 
-## 💻 Github Stats
+## 🥇 Github Stats
 
 
 <div>
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
   <a href="#"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=github_dark"/></a>
-  <a href="#"><img src="https://media.giphy.com/media/9WpxmWAOMI9ohCfzCF/giphy.gif" width="90"></a>
+  <a href="#"><img src="https://media.giphy.com/media/9WpxmWAOMI9ohCfzCF/giphy.gif" width="86"></a>
 </div>
 
 
