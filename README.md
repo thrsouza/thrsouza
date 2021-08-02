@@ -3,18 +3,18 @@
 ##
 
 <div>   
-  <a href="mailto:dev@thiagosouza.com"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=F0DB4F" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/imthiagodesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" target="_blank"></a> 
-  <a href="https://www.instagram.com/thiagosouza.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=F0DB4F" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=F0DB4F" target="_blank"></a>
+  <a href="mailto:dev@thiagosouza.com"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/imthiagodesouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F" target="_blank"></a> 
+  <a href="https://www.instagram.com/thiagosouza.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F" target="_blank"></a>
 </div>
 
 <br/>
 
 
 <div>
-  <a href="https://github.com/thiagodesouza"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/thiagodesouza"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=highcontrast"/></a>
+  <a href="https://github.com/thiagodesouza"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=thiagodesouza&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/></a>
+  <a href="https://github.com/thiagodesouza"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiagodesouza&layout=compact&langs_count=10&theme=github_dark"/></a>
 </div>
 
 <br/>
