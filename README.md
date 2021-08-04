@@ -133,7 +133,7 @@ async function getAndShowSomeInformations({ username }) {
     school: 'Campus Virtual Cruzeiro do Sul Educacional',
     fieldOfStudy: 'Análise e Desenvolvimento de Sistemas',
     startDate: '2018-01-01',
-    endDate: '2020-31-12',
+    endDate: '2020-12-31',
   } */
 
 
