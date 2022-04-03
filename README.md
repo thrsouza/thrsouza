@@ -1,13 +1,16 @@
 <h1 align="center">
-  Hello, friend!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  Thiago Souza 
+  <br/>
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3600&color=F0DB4F&center=true&vCenter=true&width=600&height=36&lines=Mobile+Developer+(Flutter);Front-end+Developer+(React+JS);Back-end+Developer+(Node+%26+.NET);Full+Stack+Developer" style="max-width: 100%;">
 </h1>
 
-<p align="center">   
-  <a href="mailto:dev@thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
-  <a href="https://www.linkedin.com/in/thiagosouza-js" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
-  <a href="https://www.instagram.com/thiagosouza.js" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
+
+<p align="center">  
+  <a href="https://www.linkedin.com/in/thiagosouza-io" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
+  <a href="https://play.google.com/store/apps/dev?id=8865737054333441628" target="_blank"><img src="https://img.shields.io/badge/-Play%20Store-0D1117?style=for-the-badge&logo=google-play&logoColor=F0DB4F"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
+  <a href="https://www.instagram.com/thiagosouza.io" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
+  <a href="mailto:dev@thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
 </p>
 
 
@@ -41,6 +44,7 @@
 <br/>
 
 <p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/-Flutter-0D1117?style=flat-square&logo=flutter&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-0D1117?style=flat-square&logo=html5&logoColor=F0DB4F"></a>
@@ -112,7 +116,7 @@ async function getAndShowSomeInformations({ username }) {
     _id: '5b093631713c0900019b0001',
     userId: '5a093631713c0900019b0000',
     title: 'Full Stack Technical Leader',
-    companyName: 'Golsat Tecnologia',
+    companyName: 'Golfleet Tecnologia',
     employmentType: 'Full-time',
     location: 'Londrina, PR - Brazil',
     startDate: '2020-01-16',
