@@ -97,7 +97,7 @@ async function getAndShowSomeInformations({ username }) {
   /* {
     _id: '5a093631713c0900019b0000',
     name: 'Thiago Souza',
-    username: 'thiagodesouza'
+    username: 'thzerodois'
     title: 'Full Stack Developer',
     alias: ['ZeroDois', 'Rezim', 'Mizer'],
     hobbies: ['Music', 'Games', 'Movies', 'Series'],
@@ -161,13 +161,13 @@ async function getAndShowSomeInformations({ username }) {
       _id: '5d093631713c0900019b0004',
       userId: '5a093631713c0900019b0000',
       name: 'cheesecakejs', 
-      repository: 'https://github.com/thiagodesouza/cheesecake', 
+      repository: 'https://github.com/thzerodois/cheesecake', 
       openSource: true, 
     },
   ] */
 }
 
-getAndShowSomeInformations({ username: 'thiagodesouza' });
+getAndShowSomeInformations({ username: 'thzerodois' });
 
 ```
 
