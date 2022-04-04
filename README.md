@@ -1,7 +1,7 @@
 <h1 align="center">
-  Thiago Souza 
+  Thiago Souza (ZeroDois)
   <br/>
-  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3600&color=F0DB4F&center=true&vCenter=true&width=600&height=36&lines=Mobile+Developer+(Flutter);Front-end+Developer+(React+JS);Back-end+Developer+(Node+%26+.NET);Full+Stack+Developer" style="max-width: 100%;">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=3600&color=F0DB4F&center=true&vCenter=true&width=600&height=52&lines=Mobile+Developer+(Flutter);Front-end+Developer+(React+JS);Back-end+Developer+(Node+%26+.NET);Full+Stack+Developer" style="max-width: 100%;">
 </h1>
 
 
