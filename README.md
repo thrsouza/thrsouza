@@ -6,10 +6,10 @@
 
 
 <p align="center">  
-  <a href="https://www.linkedin.com/in/thzerodois" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
+  <a href="https://www.linkedin.com/in/thrsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
   <a href="https://play.google.com/store/apps/dev?id=8865737054333441628" target="_blank"><img src="https://img.shields.io/badge/-Play%20Store-0D1117?style=for-the-badge&logo=google-play&logoColor=F0DB4F"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
-  <a href="https://www.instagram.com/thzerodois" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
+  <a href="https://www.instagram.com/thrsouza" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
   <a href="mailto:dev@thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
 </p>
 
@@ -24,8 +24,8 @@
 <diV>
 
   <div align="center">
-    <a href="#"><img alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thzerodois&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
-    <a href="#"><img alt="Thiago's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thzerodois&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Thiago's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thrsouza&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
+    <a href="#"><img alt="Thiago's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thrsouza&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" height="200"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
@@ -33,7 +33,7 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thzerodois&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=thrsouza&custom_title=Thiago%20Souza's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
 </div>
 
@@ -97,7 +97,7 @@ async function getAndShowSomeInformations({ username }) {
   /* {
     _id: '5a093631713c0900019b0000',
     name: 'Thiago Souza',
-    username: 'thzerodois'
+    username: 'thrsouza'
     title: 'Full Stack Developer',
     alias: ['ZeroDois', 'Rezim', 'Mizer'],
     hobbies: ['Music', 'Games', 'Movies', 'Series'],
@@ -161,13 +161,13 @@ async function getAndShowSomeInformations({ username }) {
       _id: '5d093631713c0900019b0004',
       userId: '5a093631713c0900019b0000',
       name: 'cheesecakejs', 
-      repository: 'https://github.com/thzerodois/cheesecake', 
+      repository: 'https://github.com/thrsouza/cheesecake', 
       openSource: true, 
     },
   ] */
 }
 
-getAndShowSomeInformations({ username: 'thzerodois' });
+getAndShowSomeInformations({ username: 'thrsouza' });
 
 ```
 
