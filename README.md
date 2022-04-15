@@ -6,11 +6,11 @@
 
 
 <p align="center">  
+  <a href="https://thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Website-0D1117?style=for-the-badge&logo=next.js&logoColor=F0DB4F"></a>
   <a href="https://www.linkedin.com/in/thrsouza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F0DB4F"></a> 
   <a href="https://play.google.com/store/apps/dev?id=8865737054333441628" target="_blank"><img src="https://img.shields.io/badge/-Play%20Store-0D1117?style=for-the-badge&logo=google-play&logoColor=F0DB4F"></a>
   <a href="https://www.youtube.com/channel/UCObFBuhVmi48ZHS07Li5h5A" target="_blank"><img src="https://img.shields.io/badge/YouTube-0D1117?style=for-the-badge&logo=youtube&logoColor=F0DB4F"></a>
   <a href="https://www.instagram.com/thrsouza.sh" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=F0DB4F"></a>
-  <a href="mailto:dev@thiagosouza.com" target="_blank"><img src="https://img.shields.io/badge/-Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F0DB4F"></a>
 </p>
 
 
