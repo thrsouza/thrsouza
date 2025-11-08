@@ -11,7 +11,7 @@
 
 I'm a passionate **Software Engineer** at [**@nubank**](https://github.com/nubank) 💜, always eager to learn new things and solve interesting problems. I love building scalable, maintainable software and exploring emerging technologies.
 
-- 💻 **Main technologies:** C#, Kotlin, Swift, JavaScript, and a bit of Python
+- 💻 **Main technologies:** C#, Java, Kotlin, Swift, JavaScript, and a bit of Python
 - 🏗️ **Architecture enthusiast:** Big fan of Ports and Adapters (Hexagonal) Architecture
 - 🌱 **Currently learning:** Clojure, Datomic, and the Diplomat architecture
 - 🎯 **Focus areas:** Backend and mobile development
