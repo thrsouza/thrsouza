@@ -3,7 +3,7 @@
 
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/thrsouza)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/thrsouza)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thrsouza.dev/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thrsouza.me/)
 
 
 
@@ -27,6 +27,7 @@ I'm a passionate **Software Engineer** at [**@nubank**](https://github.com/nuban
 
 ## 🔥 Featured Project
 
+[![sauron](https://github-readme-stats.vercel.app/api/pin/?username=thrsouza&repo=sauron&theme=dark&hide_border=true)](https://github.com/thrsouza/sauron)
 [![simmons](https://github-readme-stats.vercel.app/api/pin/?username=thrsouza&repo=simmons&theme=dark&hide_border=true)](https://github.com/thrsouza/simmons)
 
 
