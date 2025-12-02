@@ -25,12 +25,6 @@ I'm a passionate **Software Engineer** at [**@nubank**](https://github.com/nuban
 - 🌐 **Contributing to open source** projects and sharing knowledge
 - 📚 **Writing technical content** about software architecture and best practices
 
-## 🔥 Featured Project
-
-[![sauron](https://github-readme-stats.vercel.app/api/pin/?username=thrsouza&repo=sauron&theme=dark&hide_border=true)](https://github.com/thrsouza/sauron)
-[![simmons](https://github-readme-stats.vercel.app/api/pin/?username=thrsouza&repo=simmons&theme=dark&hide_border=true)](https://github.com/thrsouza/simmons)
-
-
 ## 🌟 Fun Facts
 
 - 🧠 **Lifelong learner** - Always curious about new technologies and concepts
